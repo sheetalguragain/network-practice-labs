@@ -17,7 +17,7 @@ This repo is a record of practical, self-driven practice following networking tr
 
 | Category | Lab | Status |
 |----------|-----|--------|
-| DHCP | DHCP DORA + Relay + Multi-Server (3 parts) | ⚪ Complete |
+| DHCP | DHCP DORA + Relay + Multi-Server (3 parts) | ⚪ Planned |
 | Redistribution | Multi-Protocol Redistribution (OSPF, EIGRP, RIP) | 🟡 In Progress |
 
 > Status legend: 🟢 Complete &nbsp;|&nbsp; 🟡 In Progress &nbsp;|&nbsp; ⚪ Planned
