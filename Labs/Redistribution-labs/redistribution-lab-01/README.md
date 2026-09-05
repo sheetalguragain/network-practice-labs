@@ -23,7 +23,7 @@ All configurations commands of each router has been added to the [configuration.
 Command outputs of each of the devices has been added to the [verification.md](https://github.com/sheetalguragain/network-practice-labs/blob/master/Labs/Redistribution-labs/redistribution-lab-01/verification.md) file.
 
 ### 6. Issues Faced & Fixes
-See WHAT-I-LEARNED.md for the full breakdown (mistake → root cause → fix → concept reinforced).
+See [WHAT-I-LEARNED.md](https://github.com/sheetalguragain/network-practice-labs/blob/master/Labs/Redistribution-labs/redistribution-lab-01/WHAT-I-LEARNED.md) for the full breakdown (mistake → root cause → fix → concept reinforced).
 
 Quick summary: redistribution commands were first applied on R2 and R4, which had no effect since those routers only touch a single protocol domain. The fix was moving all redistribution configuration to R1, the only router with visibility into every domain.
 
