@@ -27,14 +27,24 @@ This repo is a record of practical, self-driven practice following networking tr
 Every lab in this repo follows the same structure, so anyone browsing can navigate labs consistently:
 
 ```
-category-labs/
-├── README.md                  <- index for that category
-└── lab-XX-lab-name/
-    ├── README.md               <- objective, topology, config, verification
-    ├── topology.png             <- topology diagram
-    ├── WHAT-I-LEARNED.md        <- mistake → root cause → fix → concept reinforced
-    ├── configs/                 <- router/device running-configs
-    └── screenshots/              <- verification command output / captures
+network-practice-labs/
+├── README.md                                        <- index for that category
+├── Labs/ 
+    └── DHCP Dora Process Wireshark Packet Capture/
+        ├──README.md                                 <- objective, topology, config, verification
+        ├──WHAT-I-LEARNED.md                         <- mistake → root cause → fix → concept reinforced
+        ├──configuration.md                          <- router/device running-configs
+        ├──topology.png                              <- topology diagram
+        ├──verification.md                           <- verification command output
+    └── Redistribution-labs/
+        └── redistribution-lab-01/                       
+            ├──README.md                                 <- objective, topology, config, verification
+            ├──WHAT-I-LEARNED.md                         <- mistake → root cause → fix → concept reinforced
+            ├──configuration.md                          <- router/device running-configs
+            ├──topology.png                              <- topology diagram
+            ├──verification.md                           <- verification command output
+        ├── README.md                                    <- index for Redistribution-labs
+    └── README.md                                        <- index for Labs Collection
 ```
 
 The **WHAT-I-LEARNED.md** files are intentionally kept separate from the main lab README - they focus on real mistakes made during the lab, why they happened, and what concept each one reinforced. This is meant to be an honest learning log, not just a highlight reel of what worked.
