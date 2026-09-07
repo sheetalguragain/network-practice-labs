@@ -8,8 +8,8 @@ This repo is a record of practical, self-driven practice following networking tr
 
 | Category | Description | Folder |
 |----------|-------------|--------|
-| DHCP Labs | DORA process, DHCP Relay across routed boundaries, multi-server DHCP scenarios | [`dhcp-labs/`](./dhcp-labs/) |
-| Redistribution Labs | Route redistribution across OSPF, EIGRP, RIP, and other protocol combinations | [`redistribution-labs/`](./redistribution-labs/) |
+| DHCP Labs | DORA process, DHCP Relay across routed boundaries, multi-server DHCP scenarios | [`dhcp-labs/`](https://github.com/sheetalguragain/network-practice-labs/tree/master/Labs/DHCP%20DORA%20Process%20Wireshark%20Packet%20Capture) |
+| Redistribution Labs | Route redistribution across OSPF, EIGRP, RIP, and other protocol combinations | [`redistribution-labs/`](https://github.com/sheetalguragain/network-practice-labs/tree/master/Labs/Redistribution-labs) |
 
 > More categories will be added here as new topics are practiced (e.g. VLANs/trunking, ACLs, VPNs, BGP).
 
