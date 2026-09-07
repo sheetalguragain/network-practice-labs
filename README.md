@@ -28,14 +28,14 @@ Every lab in this repo follows the same structure, so anyone browsing can naviga
 
 ```
 network-practice-labs/
-├── README.md                                        <- index for that category
+├── README.md                                            <- index for main repo
 ├── Labs/ 
     └── DHCP Dora Process Wireshark Packet Capture/
-        ├──README.md                                 <- objective, topology, config, verification
-        ├──WHAT-I-LEARNED.md                         <- mistake → root cause → fix → concept reinforced
-        ├──configuration.md                          <- router/device running-configs
-        ├──topology.png                              <- topology diagram
-        ├──verification.md                           <- verification command output
+        ├──README.md                                     <- objective, topology, config, verification
+        ├──WHAT-I-LEARNED.md                             <- mistake → root cause → fix → concept reinforced
+        ├──configuration.md                              <- router/device running-configs
+        ├──topology.png                                  <- topology diagram
+        ├──verification.md                               <- verification command output
     └── Redistribution-labs/
         └── redistribution-lab-01/                       
             ├──README.md                                 <- objective, topology, config, verification
